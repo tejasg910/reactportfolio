@@ -76,7 +76,34 @@ const Skills = () => {
                     <p className='text-center'>JAVASCRIPT</p>
                 </div>
             </div>
+            <div className='w-[70vw] md:w-[50vw] '>
 
+                <h2 className='text-8xl text-blue-500 font-bold'>70%</h2>
+
+                <div class="w-full bg-gray-200 h-1 m-4">
+                    <div class="bg-blue-500 h-1" style={{ width: "70%" }}></div>
+                    <p className='text-center'>TYPESCRIPT</p>
+                </div>
+            </div>
+            <div className='w-[70vw] md:w-[50vw] '>
+
+                <h2 className='text-8xl text-blue-500 font-bold'>80%</h2>
+
+                <div class="w-full bg-gray-200 h-1 m-4">
+                    <div class="bg-blue-500 h-1" style={{ width: "80%" }}></div>
+                    <p className='text-center'>SASS</p>
+                </div>
+            </div>
+
+            <div className='w-[70vw] md:w-[50vw] '>
+
+                <h2 className='text-8xl text-blue-500 font-bold'>90%</h2>
+
+                <div class="w-full bg-gray-200 h-1 m-4">
+                    <div class="bg-blue-500 h-1" style={{ width: "90%" }}></div>
+                    <p className='text-center'>GIT and GITHUB</p>
+                </div>
+            </div>
 
 
         </div >
